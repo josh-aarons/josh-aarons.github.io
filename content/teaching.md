@@ -13,7 +13,7 @@ layout: "simple"
 
 ## Teaching Assistant
 
-**ECON 281: Special Topics in Economics (environmental economics for Scripps Institution of Oceanography Master's Students)** · Fall 2025, Fall 2024, Fall 2023\
+**ECON 281: Special Topics in Economics (environmental economics for Scripps Institution of Oceanography Master's Students)** · Fall 2026, Fall 2025, Fall 2024, Fall 2023\
 [[Student Evaluations]](/teaching/evals281.pdf)[[Most Recent Discussion Syllabus]](/teaching/discussion_syllabus_281.pdf)
 
 **ECON 131: Economics of the Environment** · Fall 2022\
